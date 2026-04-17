@@ -1,0 +1,3 @@
+ID,Nome,Status_ERP,Status_Fatura,Valor_Fatura
+1,Colaborador A,Ativo,Ativo,150.00
+2,Colaborador B,Inativo,Ativo,150.00
