@@ -1,3 +1,16 @@
 *.pdf
 *.xlsx
 data/input/BASE_REAL_*
+
+# Ignorar todo o código fonte
+src/
+
+# Ignorar todos os dados de entrada (Segurança de Dados)
+data/input/
+
+# Ignorar logs de execução
+*.log
+data/output/*.txt
+
+# NÃO IGNORAR o Dashboard (queremos que ele apareça no GitHub)
+!data/output/executive_dashboard_grc_47k.png
