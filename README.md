@@ -1,12 +1,12 @@
 # Benefit Audit Intelligence: Algorithmic Governance & GRC Framework
 
-![Executive Dashboard](https://raw.githubusercontent.com/deckSnover/benefit-audit-intelligence/main/assets/dashboard.png)
+![Executive Dashboard](https://raw.githubusercontent.com/deckSnover/benefit-audit-intelligence/main/data/output/executive_dashboard_grc_47k.png)
 
 ## 📌 Visão Geral e Resumo Executivo
-O RH pode estar gerando prejuízo financeiro mesmo quando o processo administrativo está "correto". Este projeto apresenta um framework de **Auditoria Algorítmica** desenvolvido para solucionar o *Financial Leakage* (vazamento de caixa) em faturas de benefícios de alta volumetria (faturas acima de R$ 2MM/mês).
+O RH pode estar a gerar prejuízo financeiro mesmo quando o processo administrativo está "correto". Este projeto apresenta um framework de **Auditoria Algorítmica** desenvolvido para solucionar o *Financial Leakage* (vazamento de caixa) em faturas de benefícios de alta volumetria (faturas acima de R$ 2MM/mês).
 
 ### O Problema: O "Gap" Operacional
-Existe um delay sistêmico entre operadoras de saúde e a realidade do RH. Este delay gera cobranças indevidas de vidas inativas que são invisíveis à conferência manual em faturas complexas.
+Existe um delay sistémico entre operadoras de saúde e a realidade do RH. Este delay gera cobranças indevidas de vidas inativas que são invisíveis à conferência manual em faturas complexas.
 
 ## 🛠️ Stack Técnica e Metodologia
 * **Linguagem:** Python 3.12+.
@@ -23,9 +23,10 @@ Existe um delay sistêmico entre operadoras de saúde e a realidade do RH. Este 
 No modelo de simulação de alta fidelidade incluído:
 * **Base Total Auditada:** R$ 2.410.254,00.
 * **Recovery Potential (Vazamento):** R$ 358.122,00 (14.85% de economia identificada).
-* **Status:** Identificação de falha sistêmica da operadora, protegendo o EBITDA da companhia.
+* **Status:** Identificação de falha sistémica da operadora, protegendo o EBITDA da companhia.
 
 ---
 **Nota de Propriedade Intelectual:** O core engine de integração com bancos de dados de produção (SQL/ERP) e as regras de negócio específicas são **proprietários**. Este repositório contém a camada de inteligência visual e o simulador de auditoria para fins de demonstração de metodologia.
 
-**Autor:** Igor H
+**Autor:** Igor Hilario Silva  
+**Área de Atuação:** GRC & Data Intelligence | People Analytics
