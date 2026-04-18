@@ -133,4 +133,5 @@ Representa uma visão integrada de:
 
 ## Autor
 
-**Igor Hilario Silva** | *Personnel Analyst & GRC Architect*
+**Igor Hilario Silva** | *Gerente de Governança de RH/DP | Compliance, Auditoria e People Analytics*
+
